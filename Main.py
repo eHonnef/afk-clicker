@@ -76,7 +76,7 @@ def Main(pid):
     # Simulating a mouse click
     f_click(pycwnd)
     # Simulating a keyboard keystroke
-    # keystroke(hwndMain)
+    keystroke(hwndMain)
 
     #sleep(1) this waits 1 second before looping through again
     sleep(1)

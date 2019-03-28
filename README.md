@@ -8,7 +8,8 @@ For now it's only work on windows.
 
 ## Usage
 
-Just take the application PID from the task manager and replace in the Main() function call.
+Just take the application PID from the task manager and replace in the Main() function call.  
+For minecraft users: press F3 + p to disable the pause menu when you change the focus (use windows key or atl + tab to change window).
 
 ## Requirements
 
