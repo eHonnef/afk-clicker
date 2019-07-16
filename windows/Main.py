@@ -5,7 +5,7 @@ Created on Wed Mar 27 22:34:30 2019
 @author: eHonnef
 
 Simple clicker, useful for afk botting while you can use another application in your computer.
-Only available for windows.
+This file is only for windows.
 See requirements.txt
 """
 
