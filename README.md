@@ -19,8 +19,14 @@ For minecraft users: press F3 + p to disable the pause menu when you change the 
 
 ## Windows Requirements
 
-Python 3 (tested with 3.7).  
-For libraries check the file `requirements.txt` or run the command `pip install -r requirements.txt`.
+Python 3 (tested with 3.12.0)
+- For libraries check the file `requirements.txt` or run the command `pip install -r requirements.txt`.
+
+### Legacy
+
+- Python 3 (tested with 3.7).  
+- For libraries check the file `requirements.txt` or run the command `pip install -r requirements.txt`.
+    - Maybe you need an extra lib called `win32gui>=221.6`, could not test using python 3.7.
 
 ## Linux Usage
 
